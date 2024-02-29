@@ -5,10 +5,15 @@ Edge &amp; Contour Detection - Machine Learning using CV2
 This Python project demonstrates basic image processing techniques using OpenCV to identify and count black squares in an image. It performs the following steps:
 
 **Image Loading**: Loads an image containing black shapes.
+
 **Grayscale Conversion**: Converts the image to grayscale for easier edge detection.
+
 **Canny Edge Detection**: Applies the Canny edge detector to extract edges from the grayscale image.
-**Contour Finding**: Identifies and isolates individual shapes (contours) within the image.
+
+**Contour Finding**: Identifies and isolates individual shapes (contours) within the image..
+
 **Counting Contours**: Counts the number of detected contours, which correspond to the black squares in this specific case.
+
 **Visualization**: Displays the original image with green outlines drawn around the identified squares.
 
 **Requirements**
